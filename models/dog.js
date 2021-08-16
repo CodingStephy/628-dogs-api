@@ -15,3 +15,4 @@ const Dog = model("dog", dogSchema);
 
 //EXPORT MODEL
 module.exports = Dog;
+
